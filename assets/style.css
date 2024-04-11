@@ -1,0 +1,200 @@
+
+
+body{
+    background-color: rgb(164, 188, 68);
+}
+
+.header {
+    display: flex;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(158, 198, 222);
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size:35px;
+}
+
+.header nav {
+    padding-top: 20px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+  
+}
+
+.header nav ul {
+    padding-left: 600px;
+    list-style-type: none;
+}
+
+.header nav ul li{
+    
+    display: inline-block;
+    margin-left: 20px;
+    
+
+}
+
+.profile_pic{
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+    max-width: 90px;
+    max-height: 90px;
+    border-radius: 60%;
+}
+
+.profile_pic:hover {
+    color: #111;
+    background: greenyellow;
+    box-shadow: 0 0 100px #cb187a;
+}
+
+.background_img{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width:100%;
+    max-height: 200px;
+
+}
+
+.background_img:hover {
+    color: #111;
+    background: greenyellow;
+    box-shadow: 0 0 100px #129c30;
+}
+
+h2{
+    font-size: 50px;
+
+}
+p{
+    padding-left:40px;
+}
+.about_me{
+    display: flex;
+    font-size: 20px;
+
+}
+
+#padding{
+    padding-left: 150px;
+}
+
+#my_work{ 
+    display: flex;
+    font-size: 30px;
+    
+}
+
+
+#pacman {
+    width: 100%;
+    height: 100%;
+    max-width: 1200px;
+    max-height: 500px;
+    padding-left: 50px;
+    
+}
+
+.work{
+    display: flex;
+    padding-left: 30px;
+}
+
+#calendar{
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+    max-height: 200px;
+    
+}
+#calendar:hover {
+    
+    color: #111;
+    background: greenyellow;
+    box-shadow: 0 0 100px #129c30;
+}
+
+
+
+#video{
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+    max-height: 200px; 
+}
+
+#video:hover {
+
+    color: #111;
+    background: greenyellow;
+    box-shadow: 0 0 100px #129c30;
+}
+
+ #record{
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+    max-height: 200px; 
+ }
+
+
+#record:hover {
+    color: #111;
+    background: greenyellow;
+    box-shadow: 0 0 100px #129c30;
+}
+
+#sudoku{
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+    max-height: 200px;
+}
+
+#sudoku:hover {
+
+    color: #111;
+    background: greenyellow;
+    box-shadow: 0 0 100px #129c30;
+}
+
+
+.container {
+    height:auto;
+    list-style:none;
+    margin-right:40px;
+    display:inline;
+    text-align: right ;
+}
+.container li{
+    width: 100%;
+    height: 100%;
+    max-width:400px;
+    max-height:200px;
+    margin:5px;
+    padding:5px;
+    border:none;
+    text-align:center;
+    display:inline-block;
+}
+
+footer{
+    
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 15px;
+
+}
