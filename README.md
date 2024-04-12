@@ -19,6 +19,7 @@ The portfolio includes:
 
 
 
-Repo Link: ()
+
+Repo Link: (https://github.com/daisyosebe/resume_profile.git)
 
 Git Hub Page Deployment: (https://daisyosebe.github.io/resume_profile/)
