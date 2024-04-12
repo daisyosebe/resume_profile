@@ -1,8 +1,12 @@
-# resume_profile - organized a webpage with my personal portfolio. 
+# resume_profile - My portfolio! 
+
 The portfolio includes: 
+
 My name, a recent photo, and links to sections about me, my work, and how to contact me.
-When the links in the navigation are cicked the UI then scrolls to the corresponding section
-When user clicks on the images of the applications they are taken to a deployed application
+
+When the links in the navigation are clicked the UI then scrolls to the corresponding section.
+
+When the user clicks on the images of the applications they are taken to a deployed application.
 
 
 
@@ -14,4 +18,5 @@ When user clicks on the images of the applications they are taken to a deployed 
 
 
 Repo Link: ()
-Git Hub Page Deployement: (https://daisyosebe.github.io/resume_profile/)
+
+Git Hub Page Deployment: (https://daisyosebe.github.io/resume_profile/)
